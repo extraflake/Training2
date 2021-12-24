@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Ticketing-System\\Ticketing System\\Ticketing System.csproj": {}
+    "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Training2\\Ticketing System\\Ticketing System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Ticketing-System\\Ticketing System\\Ticketing System.csproj": {
+    "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Training2\\Ticketing System\\Ticketing System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Ticketing-System\\Ticketing System\\Ticketing System.csproj",
+        "projectUniqueName": "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Training2\\Ticketing System\\Ticketing System.csproj",
         "projectName": "Ticketing System",
-        "projectPath": "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Ticketing-System\\Ticketing System\\Ticketing System.csproj",
+        "projectPath": "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Training2\\Ticketing System\\Ticketing System.csproj",
         "packagesPath": "C:\\Users\\Naufal Aji Wibowo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Ticketing-System\\Ticketing System\\obj\\",
+        "outputPath": "C:\\Users\\Naufal Aji Wibowo\\Documents\\GitHub\\Training2\\Ticketing System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Naufal Aji Wibowo\\AppData\\Roaming\\NuGet\\NuGet.Config",
