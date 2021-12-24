@@ -1,0 +1,67 @@
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\appsettings.Development.json
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\appsettings.json
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Ticketing System.exe
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Ticketing System.deps.json
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Ticketing System.runtimeconfig.json
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Ticketing System.runtimeconfig.dev.json
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Ticketing System.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\ref\Ticketing System.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Ticketing System.pdb
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Castle.Core.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Humanizer.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.csproj.AssemblyReference.cache
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.AssemblyInfoInputs.cache
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.AssemblyInfo.cs
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.csproj.CoreCompileInputs.cache
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.MvcApplicationPartsAssemblyInfo.cs
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.MvcApplicationPartsAssemblyInfo.cache
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\staticwebassets\Ticketing System.StaticWebAssets.Manifest.cache
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\staticwebassets\Ticketing System.StaticWebAssets.xml
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\scopedcss\bundle\Ticketing System.styles.css
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.RazorTargetAssemblyInfo.cache
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\ref\Ticketing System.dll
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.pdb
+D:\Metrodata Coding Camp\Segment 4\Final\Ticketing-System\Ticketing System\obj\Debug\net5.0\Ticketing System.genruntimeconfig.cache
