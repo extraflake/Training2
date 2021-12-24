@@ -17,10 +17,12 @@ namespace Ticketing_System.Controllers
     {
         private readonly Repository.Data.AccountHasRole_Repository accountHasRole_Repository;
         public IConfiguration _configuration;
+        public IConfiguration _configuration2;
         public AccountHasRolesController(AccountHasRole_Repository accountRoleRepository, IConfiguration configuration) : base(accountRoleRepository)
         {
             this.accountHasRole_Repository = accountRoleRepository;
             this._configuration = configuration;
+            this._configuration2 = configuration;
         }
 
     }
